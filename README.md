@@ -12,6 +12,7 @@ Este proyecto proporciona un script en Python para automatizar el envío de mens
 ## Dependencias
 
 El proyecto requiere las siguientes dependencias, que se pueden instalar con `pip install -r requirements.txt`:
+
 O con conda `pip install selenium`:
 
 ## Uso
